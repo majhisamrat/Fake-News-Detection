@@ -17,3 +17,9 @@ A machine learning web app that classifies news as real or fake using NLP and lo
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+
+
+## 🖼️ Demo Screenshot
+
+![Fake News App Screenshot](output_demo.png)
+
